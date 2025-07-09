@@ -1,0 +1,2 @@
+[dependencies]
+base = "https://github.com/dfinity/new-motoko-base#2bc0648e2934d0bc09dc4ab544db130d7478161d"
